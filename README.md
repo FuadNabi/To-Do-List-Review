@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 ## :handshake: Contributing
 
 Contributions, issues, and feature requests.
-Feel free to check the [issues page](https://github.com/FuadNabi/To-Do-list/issues).
+Feel free to check the [issues page](https://github.com/FuadNabi/To-Do-list-Review/issues).
 
 ## Acknowledgments
 
