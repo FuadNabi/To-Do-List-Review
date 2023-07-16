@@ -24,9 +24,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-:bust_in_silhouette: **Author**
+:bust_in_silhouette: **Fuad Nabiyev**
 
-- GitHub: [@githubhandle](https://github.com/FuadNabi)
+- GitHub: [@FuadNabi](https://github.com/FuadNabi)
 
 
 ## :handshake: Contributing
