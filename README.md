@@ -27,6 +27,7 @@ To get a local copy up and running follow these simple example steps.
 :bust_in_silhouette: **Fuad Nabiyev**
 
 - GitHub: [@FuadNabi](https://github.com/FuadNabi)
+- LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
 
 
 ## :handshake: Contributing
