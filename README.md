@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@FuadNabi](https://github.com/FuadNabi)
 - LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
-
+- Twitter: [FuadNabiyev](https://twitter.com/FuadNabiyev_)
 
 ## :handshake: Contributing
 
